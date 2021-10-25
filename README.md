@@ -1,5 +1,5 @@
 ### Hi there! 👋
-- 🌱 I’m currently learning ```.js```, ```nodejs```
+- 🌱 I’m currently learning ```.js```, ```node.js```
 <!--
 **mishawebdev/mishawebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
